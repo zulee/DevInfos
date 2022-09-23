@@ -1,6 +1,6 @@
 # DevInfos
 
-## VIRTUALISATION
+## VIRTUALIZATION
 
 -Use docker in Hyper-V Guest OS
 
